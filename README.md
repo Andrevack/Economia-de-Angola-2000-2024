@@ -17,12 +17,12 @@ Investigar a evolução económica de Angola entre 2000-2024,. O projeto visa co
 - **GitHub**: publicação e documentação do projeto
 
 ---
+📁 Estrutura do repositório
+notebook Jupyter — contém todo o código Python usado para extrair, limpar, analisar e visualizar os dados económicos de Angola.
 
-## 📁 Estrutura do repositório
+dataset resumido em Excel — ficheiro final preparado para importação no Power BI, com os indicadores organizados entre 2000 e 2024.
 
--noteboock jupyer 
--dataset resumdio em excel
-- Recorte do dashboard
+recorte do dashboard — imagem do dashboard construído no Power BI, usada para apresentação no README.
 
 - ## 📈 Indicadores analisados
 
