@@ -24,6 +24,8 @@ dataset resumido em Excel — ficheiro final preparado para importação no Powe
 
 recorte do dashboard — imagem do dashboard construído no Power BI, usada para apresentação no README.
 
+## 🖼️ Dashboard Power BI ![Dashboard Angola](Dash%20Angola.png)
+
 - ## 📈 Indicadores analisados
 
 - **PIB (Produto Interno Bruto)**  
